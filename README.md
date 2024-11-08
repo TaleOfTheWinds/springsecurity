@@ -4,3 +4,4 @@ Spring Security example project
   - Maven
   - Spring Boot, Security, Web
   - JWT
+  - Docker
